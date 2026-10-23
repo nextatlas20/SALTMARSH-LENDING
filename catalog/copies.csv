@@ -1,0 +1,8 @@
+copy_id,title,origin_branch,copy_rank,condition
+CP-101,Tide Almanac,Harbor,1,READY
+CP-102,Tide Almanac,Marsh,2,READY
+CP-103,Orchid Atlas,Harbor,1,READY
+CP-104,Orchid Atlas,Marsh,2,DAMAGED
+CP-105,Map of Reeds,Harbor,1,READY
+CP-105,Wind Log,Harbor,1,READY
+CP-106,Wind Log,Marsh,2,READY
