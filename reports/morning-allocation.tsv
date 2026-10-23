@@ -1,0 +1,8 @@
+request_id	destination	title	requested_at	status	copy_id	origin_branch
+RQ-201	Sedge	Tide Almanac	2114-08-12T08:00:00Z	ALLOCATED	CP-101	Harbor
+RQ-202	Dune	Orchid Atlas	2114-08-12T08:05:00Z	ALLOCATED	CP-103	Harbor
+RQ-203	Jetty	Tide Almanac	2114-08-12T08:10:00Z	ALLOCATED	CP-102	Marsh
+RQ-204	Sedge	Tide Almanac	2114-08-12T08:15:00Z	UNFILLED	-	-
+RQ-205	Dune	Map of Reeds	2114-08-12T08:20:00Z	REJECTED_UNKNOWN	-	-
+RQ-206	Jetty	Wind Log	2114-08-12T08:25:00Z	ALLOCATED	CP-106	Marsh
+RQ-207	North	Tide Almanac	2114-08-12T08:30:00Z	UNFILLED	-	-
